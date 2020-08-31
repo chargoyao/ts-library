@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "test": "yarn jest"
+    "cover": "yarn jest --coverage"
   },
   "types": "dist/index.d.ts",
   "repository": {
