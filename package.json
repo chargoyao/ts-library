@@ -4,7 +4,8 @@
   "description": "chargo demo",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "yarn jest"
   },
   "types": "dist/index.d.ts",
   "repository": {
