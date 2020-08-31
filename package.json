@@ -1,0 +1,34 @@
+{
+  "name": "ts-library",
+  "version": "1.0.0",
+  "description": "chargo demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chargoyao/ts-library.git"
+  },
+  "keywords": [
+    "chargo",
+    "yao"
+  ],
+  "author": "chargoyao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chargoyao/ts-library/issues"
+  },
+  "homepage": "https://github.com/chargoyao/ts-library#readme",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
