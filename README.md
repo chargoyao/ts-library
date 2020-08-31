@@ -2,6 +2,7 @@
 
 # mypluralize
 A Node.js module that returns the plural form of any noun
+[![Build Status](https://travis-ci.org/chargoyao/ts-library.svg?branch=develop)](https://travis-ci.org/chargoyao/ts-library)
 ## Installation 
 ```sh
 npm install mypluralize --save
