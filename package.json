@@ -1,5 +1,5 @@
 {
-  "name": "ts-library",
+  "name": "ts-library-chargo",
   "version": "1.0.0",
   "description": "chargo demo",
   "main": "dist/index.js",
