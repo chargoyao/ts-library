@@ -1,7 +1,7 @@
 # ts-library
 
 # mypluralize
-A Node.js module that returns the plural form of any noun
+A Node.js module that returns the plural form of any noun <br/>
 [![Build Status](https://travis-ci.org/chargoyao/ts-library.svg?branch=develop)](https://travis-ci.org/chargoyao/ts-library)
 ## Installation 
 ```sh
